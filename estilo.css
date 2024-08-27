@@ -1,0 +1,51 @@
+*
+{
+    margin: 10px;
+}
+.padre
+{
+    background-color: rgb(41, 4, 248);
+    padding: 200px;
+}
+.hijo
+{
+    background-color: darkblue;
+    padding: 100px;
+    border-radius: 600px;
+    border-color: black;
+    
+}
+.nieto
+{
+    background-color: dodgerblue;
+    padding: 100px;
+    border-radius: 500px;
+    border-color: black;
+}
+.bisnieto
+{
+    background-color: rgb(24, 234, 241);
+    padding: 100px;
+    border-radius: 500px;
+    border-color: black;
+}
+.bisnieto2
+{
+    background-color: rgb(14, 248, 25);
+    padding: 100px;
+    border-radius: 300px;
+    border-color: black;
+
+}
+.bisnieto3
+{
+    background-color: rgb(22, 194, 99);
+    padding: 100px;
+    border-radius: 300px;
+    border-color: black;
+}
+h1
+{
+    background-color: darkcyan;
+    padding-left: 10px;
+}
